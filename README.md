@@ -1,2 +1,2 @@
-# portf-lio-inicial
+# portfólio-inicial
 aula sobre html semântico e introdução sobre estruturas
